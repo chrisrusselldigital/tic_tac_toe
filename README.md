@@ -21,3 +21,9 @@ The rules of tic-tac-toe are as follows:
 - `rspec`
 - `simplecov`
 - `rubocop`
+
+## Planning & design
+
+Whilst the idea was fresh in my mind, I started thinking about how the grid might look:
+
+![Designing the grid](/assets/planning-with-irb.jpg "grid")
