@@ -32,11 +32,10 @@ Simple first idea (using the planning cards) of what a new `Player` would need. 
 
 ![Planning player](/assets/player.jpg "player")
 
-
 Whilst the idea was fresh in my mind, I started thinking about how the grid might look:
 
 ![Designing the grid](/assets/planning-with-irb.jpg "grid")
 
 Which then led me to consider how the game might be organised:
 
-![Game organisation](/assets/game-class-method1.jpg "game class")
+![Game organisation](/assets/game-class-methods1.jpg "game class")
