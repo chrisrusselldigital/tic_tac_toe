@@ -28,14 +28,15 @@ To assist and optimise my process, I'm using a set of cards that aid more focuse
 
 ![Planning cards](/assets/planning-cards.jpg "cards")
 
-### Player
-
 Simple first idea (using the planning cards) of what a new `Player` would need. It takes an argument of `"x"` or `"0"` on initialisation.
 
 ![Planning player](/assets/player.jpg "player")
 
 
-### Grid design
 Whilst the idea was fresh in my mind, I started thinking about how the grid might look:
 
 ![Designing the grid](/assets/planning-with-irb.jpg "grid")
+
+Which then led me to consider how the game might be organised:
+
+![Game organisation](/assets/game-class-method1.jpg "game class")
