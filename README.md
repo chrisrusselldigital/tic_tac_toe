@@ -24,6 +24,11 @@ The rules of tic-tac-toe are as follows:
 
 ## Planning & design
 
+To assist and optimise my process, I'm using a set of cards that aid more focused planning and development.
+
+![Planning cards](/assets/planning-cards.jpg "cards")
+
+
 ### Grid design
 Whilst the idea was fresh in my mind, I started thinking about how the grid might look:
 
