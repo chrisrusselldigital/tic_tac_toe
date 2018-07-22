@@ -1,8 +1,13 @@
 require 'game'
 
 describe Game do
-  it "is 3 empty arrays, each including 3 other empty arrays on initialisation" do
+  it 'is an empty game grid' do
     game = Game.new
-    expect(game.grid).to eq([[[], [], []], [[], [], []], [[], [], []]])
+    expect{ game.print_grid }.to output(
+'`|`|`
+`|`|`
+`|`|`
+'
+).to_stdout
   end
 end
