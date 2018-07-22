@@ -39,3 +39,5 @@ Whilst the idea was fresh in my mind, I started thinking about how the grid migh
 Which then led me to consider how the game might be organised:
 
 ![Game organisation](/assets/game-class-methods1.jpg "game class")
+
+Took a 
