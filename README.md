@@ -40,4 +40,4 @@ Which then led me to consider how the game might be organised:
 
 ![Game organisation](/assets/game-class-methods1.jpg "game class")
 
-Took a 
+Eventually settled on a layout using string interpolation, having originally considered using arrays to store the game plays.
